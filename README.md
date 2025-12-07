@@ -57,7 +57,7 @@ Having issues or questions? We're here to help!
 
 ### 📧 Contact Us
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)
+**Email:** [exsoftcom@gmail.com](mailto:exsoftcom@gmail.com)
 
 ### 🐛 Report a Bug
 
