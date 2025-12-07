@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="assets/input.png" alt="Input Screen" width="200">
-  <img src="assets/results.png" alt="Results Screen" width="200">
+  <img src="assets/result.png" alt="Results Screen" width="200">
   <img src="assets/customize.png.png" alt="Customization" width="200">
 </p>
 
