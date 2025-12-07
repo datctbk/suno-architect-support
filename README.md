@@ -20,34 +20,14 @@
 
 **Suno Architect** is the ultimate AI-powered prompt generator for Suno AI music creation. Transform your song ideas into professional, optimized prompts in seconds.
 
-### ✨ Features
+### Features
 
-- **🎼 60+ Music Genres** — Pop, Hip Hop, Rock, EDM, Jazz, Metal, Lo-fi, Synthwave & more
-- **📝 Smart Lyrics Generator** — AI-powered lyrics with proper [Verse], [Chorus], [Bridge] structure
-- **🎭 Complete Creative Control** — Mood, vocal style, song structure customization
-- **⚡ Instant Results** — Generate professional prompts in seconds
-- **🌍 Multilingual** — Create songs in English, Vietnamese, and more
-- **📤 Easy Export** — One-tap copy to clipboard or share to social media
-
----
-
-## How It Works
-
-1. **Choose Your Genre** — Select from 60+ music styles
-2. **Set the Mood** — Pick the vibe for your song
-3. **Add Details** — Describe your idea, customize vocals
-4. **Generate** — AI creates your Suno-optimized prompt
-5. **Copy to Suno** — Use in Custom Mode and create!
-
----
-
-## Screenshots
-
-<p align="center">
-  <img src="assets/input.png" alt="Input Screen" width="200">
-  <img src="assets/result.png" alt="Results Screen" width="200">
-  <img src="assets/customize.png.png" alt="Customization" width="200">
-</p>
+- 🎸 **60+ Music Genres** — Pop, Hip Hop, Rock, EDM, Jazz, Lo-fi, Synthwave & more
+- 📝 **Smart Lyrics Generator** — AI-powered lyrics with [Verse], [Chorus], [Bridge] structure
+- 🎭 **Complete Creative Control** — Mood, vocal style, song structure customization
+- ⚡ **Instant Results** — Generate professional prompts in seconds
+- 🌍 **Multilingual** — Create songs in English, Vietnamese, and more
+- 📤 **Easy Export** — One-tap copy to clipboard or share to social media
 
 ---
 
@@ -57,7 +37,7 @@ Having issues or questions? We're here to help!
 
 ### 📧 Contact Us
 
-**Email:** [exsoftcom@gmail.com](mailto:exsoftcom@gmail.com)
+**Email:** [UniqApp](mailto:exsoftcom@gmail.com)
 
 ### 🐛 Report a Bug
 
@@ -75,4 +55,40 @@ We love hearing your ideas! Send us an email with your suggestions.
 
 ## FAQ
 
-### Is Suno Architect free?
+**Is Suno Architect free?**  
+Yes! The core features are completely free to use.
+
+**Does the app work offline?**  
+An internet connection is required for AI prompt generation.
+
+**Is my data stored?**  
+No. We don't collect or store any personal data.
+
+**Is this app affiliated with Suno AI?**  
+No. Suno Architect is an independent third-party tool.
+
+---
+
+## Privacy
+
+- ✅ No personal data collected
+- ✅ No account required
+- ✅ No tracking or analytics
+
+For full details, see our [Privacy Policy](PRIVACY.md).
+
+---
+
+## Requirements
+
+- iOS 15.0 or later
+- iPhone compatible
+- Internet connection required
+
+---
+
+<p align="center">
+  Made with ❤️ for music creators
+  <br>
+  © 2024 Suno Architect. All rights reserved.
+</p>
