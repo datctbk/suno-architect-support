@@ -75,7 +75,7 @@
 
 ## 📧 Contact
 
-**Support:** [your-email@example.com](mailto:your-email@example.com)
+**Support:** [uniqApp](mailto:exsoftcom@gmail.com)
 
 **Privacy Policy:** [View Privacy Policy](PRIVACY.md)
 
