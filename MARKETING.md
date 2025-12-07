@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="assets/input.png" alt="Create Prompts" width="220">
-  <img src="assets/resultspng" alt="Results" width="220">
+  <img src="assets/result.png" alt="Results" width="220">
   <img src="assets/customize.png.png" alt="Customize" width="220">
 </p>
 
