@@ -19,9 +19,9 @@
 **Stop struggling with prompts.** Suno Architect uses advanced AI to generate professional, optimized prompts for Suno v3.5 Custom Mode — in seconds.
 
 <p align="center">
-  <img src="app-store-screenshots/1_create_prompts.png" alt="Create Prompts" width="220">
-  <img src="app-store-screenshots/2_instant_results.png" alt="Results" width="220">
-  <img src="app-store-screenshots/3_customization.png" alt="Customize" width="220">
+  <img src="assets/input.png" alt="Create Prompts" width="220">
+  <img src="assets/resultspng" alt="Results" width="220">
+  <img src="assets/customize.png.png" alt="Customize" width="220">
 </p>
 
 ---
