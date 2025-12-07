@@ -44,9 +44,9 @@
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/input.png" alt="Input Screen" width="200">
-  <img src="screenshots/results.png" alt="Results Screen" width="200">
-  <img src="screenshots/customize.png" alt="Customization" width="200">
+  <img src="asset/input.png" alt="Input Screen" width="200">
+  <img src="asset/results.png" alt="Results Screen" width="200">
+  <img src="asset/customize.png.png" alt="Customization" width="200">
 </p>
 
 ---
