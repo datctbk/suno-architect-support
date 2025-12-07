@@ -48,8 +48,8 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)
+**Email:** [UniqApp](mailto:exsoftcom@gmail.com)
 
 ---
 
-© 2024 Suno Architect. All rights reserved.
+© 2025 Suno Architect. All rights reserved.
