@@ -87,5 +87,5 @@ For full details, see our [Privacy Policy](PRIVACY.md).
 <p align="center">
   Made with ❤️ for music creators
   <br>
-  © 2024 MelodyMaker AI. All rights reserved.
+  © 2025 MelodyMaker AI. All rights reserved.
 </p>
