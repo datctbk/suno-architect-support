@@ -19,9 +19,9 @@
 **Stop struggling with prompts.** MelodyMaker AI uses advanced AI to generate professional, optimized prompts for AI music creation — in seconds.
 
 <p align="center">
-  <img src="app-store-screenshots/1_create_prompts.png" alt="Create Prompts" width="220">
-  <img src="app-store-screenshots/2_instant_results.png" alt="Results" width="220">
-  <img src="app-store-screenshots/3_customization.png" alt="Customize" width="220">
+  <img src="app-store-screenshots/input.png" alt="Create Prompts" width="220">
+  <img src="app-store-screenshots/result.png" alt="Results" width="220">
+  <img src="app-store-screenshots/3_customize.png.png" alt="Customize" width="220">
 </p>
 
 ---
