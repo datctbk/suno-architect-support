@@ -1,10 +1,10 @@
-# Privacy Policy for Suno Architect
+# Privacy Policy for MelodyMaker AI
 
 **Last Updated:** December 2024
 
 ## Overview
 
-Suno Architect ("the App") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
+MelodyMaker AI ("the App") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
 
 ## Information We Collect
 
@@ -19,7 +19,7 @@ The App operates entirely on your device and does not:
 
 ## How the App Works
 
-When you use Suno Architect:
+When you use MelodyMaker AI:
 
 1. **Song Prompts** — Your song ideas and prompts are processed through Google's Gemini AI API to generate results. These requests are made directly from your device and are not stored by us.
 
@@ -52,4 +52,4 @@ If you have questions about this Privacy Policy, please contact us at:
 
 ---
 
-© 2025 Suno Architect. All rights reserved.
+© 2024 MelodyMaker AI. All rights reserved.
