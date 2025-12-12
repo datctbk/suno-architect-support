@@ -1,15 +1,15 @@
-# Suno Architect
+# MelodyMaker AI
 
 <p align="center">
-  <img src="assets/icon.png" alt="Suno Architect Logo" width="120" height="120">
+  <img src="assets/icon.png" alt="MelodyMaker AI Logo" width="120" height="120">
 </p>
 
 <p align="center">
-  <strong>🎵 AI Prompt Engineer for Suno Music Creation</strong>
+  <strong>🎵 AI Prompt Engineer for Music Creation</strong>
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/suno-architect">
+  <a href="https://apps.apple.com/app/melodymaker-ai">
     <img src="https://img.shields.io/badge/Download-App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on App Store">
   </a>
 </p>
@@ -18,7 +18,7 @@
 
 ## About
 
-**Suno Architect** is the ultimate AI-powered prompt generator for Suno AI music creation. Transform your song ideas into professional, optimized prompts in seconds.
+**MelodyMaker AI** is the ultimate AI-powered prompt generator for music creation. Transform your song ideas into professional, optimized prompts in seconds.
 
 ### Features
 
@@ -39,7 +39,7 @@ Having issues or questions? We're here to help!
 
 **Email:** [UniqApp](mailto:exsoftcom@gmail.com)
 
-### 🐛 Report a Bug
+### 🐛 Report a Bug 
 
 Please include:
 - Device model (e.g., iPhone 15 Pro)
@@ -55,7 +55,7 @@ We love hearing your ideas! Send us an email with your suggestions.
 
 ## FAQ
 
-**Is Suno Architect free?**  
+**Is MelodyMaker AI free?**  
 Yes! The core features are completely free to use.
 
 **Does the app work offline?**  
@@ -63,9 +63,6 @@ An internet connection is required for AI prompt generation.
 
 **Is my data stored?**  
 No. We don't collect or store any personal data.
-
-**Is this app affiliated with Suno AI?**  
-No. Suno Architect is an independent third-party tool.
 
 ---
 
@@ -90,5 +87,5 @@ For full details, see our [Privacy Policy](PRIVACY.md).
 <p align="center">
   Made with ❤️ for music creators
   <br>
-  © 2024 Suno Architect. All rights reserved.
+  © 2024 MelodyMaker AI. All rights reserved.
 </p>
